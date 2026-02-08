@@ -59,3 +59,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
+
+window.openModal = openModal;
+window.closeModal = closeModal;
+window.submitBrief = submitBrief;
