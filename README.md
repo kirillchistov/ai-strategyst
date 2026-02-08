@@ -1,4 +1,4 @@
-# AI Strategyst
+# AI Strategist
 
 - 👋 Hey, welcome. This is just a playground for my future AI Strategy Builder
 - 👀 Looking to help small businesses boost ROMI and overall business performance
